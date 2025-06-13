@@ -1,5 +1,3 @@
-import { Alert } from '@mui/material'
-
 # 🧩 Impact Lab - Tarefa 1
 
 Aplicação full-stack com **upload de imagem**, composta por:
@@ -40,7 +38,7 @@ PORT=4000
 **No frontend (`frontend/.env`)**:
 
 ```env
-REACT_APP_API_URL=http://localhost:4000
+REACT_APP_API_URL=http://localhost:3000
 ```
 
 ### 4. Rodar o projeto
@@ -68,7 +66,7 @@ Impact-Lab-Tarefa-1/
 
 ### 📤 Upload de Imagem
 
-- Interface amigável com Material UI
+- Interface com Material UI
 - Preview da imagem antes do envio
 - Validação básica
 - Envio via `POST /api/upload`
@@ -102,13 +100,4 @@ Impact-Lab-Tarefa-1/
 
 ---
 
-## 📦 Próximos passos
-
-- [ ] Validação avançada no backend
-- [ ] Histórico de imagens enviadas
-- [ ] Armazenamento em nuvem (S3, Firebase)
-- [ ] Deploy (Vercel + Render)
-
----
-
-> Criado com 💡 por Matheus — Impact Lab
+> Criado com 💡 por Matheus, Felipe, Pedro e Guilherme — Impact Lab
