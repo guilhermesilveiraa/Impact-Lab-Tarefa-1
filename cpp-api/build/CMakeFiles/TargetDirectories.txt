@@ -1,0 +1,3 @@
+/home/matheus/Dev/repos/ImpactLab/Impact-Lab-Tarefa-1/cpp-api/build/CMakeFiles/cpp-api.dir
+/home/matheus/Dev/repos/ImpactLab/Impact-Lab-Tarefa-1/cpp-api/build/CMakeFiles/edit_cache.dir
+/home/matheus/Dev/repos/ImpactLab/Impact-Lab-Tarefa-1/cpp-api/build/CMakeFiles/rebuild_cache.dir
